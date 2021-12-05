@@ -1,2 +1,7 @@
-# sem_cpp_dll
-This is a dll project implementing SEM algorithm
+# Summary
+
+Archieved.
+
+Some implementation of Stochastic Expectation Maximization algorithm.
+
+Maybe not working.
