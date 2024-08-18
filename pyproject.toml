@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "sem_cpp_dll"
+version = "0.0.1"
+description = "DLL repo for the SEM implementation package"
+authors = [
+  "edazizovv",
+]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "sem_cpp_dll"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
