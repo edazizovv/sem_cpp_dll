@@ -1,3 +1,0 @@
-The following directions of development are formulated for this project:
-
-	> efficient SEM implementation
